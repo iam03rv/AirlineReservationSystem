@@ -15,5 +15,5 @@ To run the project simply double click on the "run.bat" file.
 
 For any query please contact me at:-
 
-Gmail: officialkulbhushan@gmail.com
+Gmail: officialrajatvarshney@gmail.com
 
